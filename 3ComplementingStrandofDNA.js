@@ -5,10 +5,9 @@
  * @author iambarack
  * 
  *******************************/
-import { rf, wf } from './modules.js'
+import { rf, wf, dna_f } from './modules.js'
 var dna = rf('./datasets/rosalind_revc.txt').toString().split('')
 //console.log(dna);
-
 for (let i = 0; i < dna.length;i++) {
     switch (dna[i]) {
         case 'T':
@@ -29,6 +28,6 @@ for (let i = 0; i < dna.length;i++) {
 }
 
 dna=dna.reverse().join('')
-console.log(dna);
+console.log(dna_f(dna));
 
-wf('out/3.txt', dna)
+wf('out/3.txt', dna_f(dna))

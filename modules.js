@@ -10,4 +10,8 @@ export function wf(path, data) {
     })
 }
 
+export function dna_f(dna) {
+    return dna.match(/.{1,10}/g).join(' ').match(/.{1,33}/g).join('\n')
+}
+
 export var res = {A:0, C:0, T:0, G:0}
