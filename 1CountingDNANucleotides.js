@@ -1,3 +1,11 @@
+/******************************************
+ * 
+ * Counting DNA Nucleotides
+ * 
+ * @author iambarack
+ * 
+ *****************************************/
+
 import { rf, wf, res } from './modules.js'
 
 const dna = rf('./datasets/rosalind_dna.txt')

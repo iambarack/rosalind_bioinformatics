@@ -1,3 +1,10 @@
+/********************************
+ * 
+ * Complementing Strand of DNA
+ * 
+ * @author iambarack
+ * 
+ *******************************/
 import { rf, wf } from './modules.js'
 var dna = rf('./datasets/rosalind_revc.txt').toString().split('')
 //console.log(dna);

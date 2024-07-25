@@ -1,0 +1,34 @@
+mutation_count: 492
+GGCT**T*AG **C*AGCA** *T*TT*C*G* 
+*ACGCGCCCC ***G**T*** *GT*C**T*G 
+CA**AA*GAA *CG*GTTT*G GAG*CT*CAC 
+*AG**ACC** *T*C***AT* **T***C**T 
+CG*A*AG**G *C*AC*AC** GCA**GA*** 
+GAG*TGT**A TG*AAAG*T* A**GGGTAA* 
+A**GG*G**A **A*C*C*** TG*CT****T 
+T*GA****C* GT***GAT** **ACCGAC** 
+A**TG*GACT ***GCA*G*T C*TA***CA* 
+A***C*A**T A**GAC***C AAGAG*AG** 
+*AAA**T*C* *CT****A** *TC**C*TTT 
+******TAC* ***C*ACCGC G*T*GT**TT 
+AC***T*CG* ***G*GA**C G****GGGAC 
+GA*C***AG* *T*CT***C* *CACGTG**A 
+T*GG*AC**C G*A***TA*T *T*C**G*** 
+*G*G*A**G* G*A*A**GCG T***A**G*G 
+C*A****CC* ***C**TCC* ***C*****C 
+**AA*AAT*A *T**GC*ACT **T*ACA**A 
+****CTCAGA G*****C*** *****A***A 
+AC*A*TTG** TTT*GT*GA* **TT*T**C* 
+**TG*GA*C* ***G***G*A *A**TG*T*A 
+*C*T****** T*A**G***C **GT*ATGT* 
+***ATAG*** *TC*G**T*A CA*T***G*A 
+GT***G*GC* T*G*TATTTA *AG**C**AC 
+****T**TG* **T**TAA** *TAA*AG*TG 
+*A***A**** G***TGCCA* *CC*TA**CG 
+C**CCTGG*G AT*A*T*G*G TT**A*AC*A 
+*ATAC*A*C* *AA*CCCC** ***T*G*C*T 
+G*G*****TT T**A*A**** *****AG**G 
+C***TCC*A* *GT****G*T T******T*T 
+****T***** ****CG***A GTC***G*GC 
+*A**CGCCA* **CG*GGT*A GT*T**C*** 
+C*TC***GGA *C*A*TTGG

@@ -1,3 +1,11 @@
+/*****************************************************************
+ * 
+ * Finding Highest GC rate among 10 DNA samples of same lengths
+ * 
+ *                     @author iambarack
+ * 
+ *****************************************************************/
+
 import { rf, wf } from './modules.js'
 var dna = rf('./datasets/rosalind_gc.txt').toString()
 
@@ -15,7 +23,7 @@ for (let o = 0; o < dna.length; o++) {
     for (let i = 0; i < el.length; i++) {
         if(el[i] == 'G' || el[i] == 'C') gc++;
     }
-    gcmap.set(dna[o].substring(0,4), 100*(gc/(dna[o].length-4)))
+    gcmap.set("Rosalind_"+dna[o].substring(0,4), 100*(gc/(dna[o].length-4)))
 
 }
 
@@ -25,3 +33,4 @@ console.log(gcmap);
 console.log("===RESULT===");
 console.log("Rosalind_"+gcmap[0][0]+'\n'+gcmap[0][1]);
 console.log("====END====");
+wf('out/5.txt', JSON.stringify(gcmap))
