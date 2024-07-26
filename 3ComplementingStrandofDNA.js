@@ -7,6 +7,7 @@
  *******************************/
 import { rf, wf, dna_f } from './modules.js'
 var dna = rf('./datasets/rosalind_revc.txt').toString().split('')
+var dna = rf('./datasets/cogniterra13.txt').toString().split('')
 //console.log(dna);
 for (let i = 0; i < dna.length;i++) {
     switch (dna[i]) {
@@ -28,6 +29,6 @@ for (let i = 0; i < dna.length;i++) {
 }
 
 dna=dna.reverse().join('')
-console.log(dna_f(dna));
+console.log(dna);
 
 wf('out/3.txt', dna_f(dna))
